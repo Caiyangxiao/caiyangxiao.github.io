@@ -24,6 +24,11 @@ Publications
 
 Project experience
 ======
+* Nov. 2024 – March 2025: Research Assistant (Wuhan, China)
+  _Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design_
+  * Formed the dataset and labelled the data
+  * Participated in the design and refinement of the knowledge-based multi-agent framework and its workflow
+
 * June. 2023 – Sept. 2023: Client Development Intern (Beijing, China)
   _<b>Intern at</b>: Beijing Dajia Internet Information Technology (Kuaishou) Co., Ltd., China_
   * Implemented core feature requirements and resolved high-priority bugs for the Beauty module in both internal and external releases of Kuaishou BeYoung, using C++ and QML
