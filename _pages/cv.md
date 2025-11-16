@@ -24,10 +24,11 @@ Publications
 
 Project experience
 ======
-* Nov. 2024 – March 2025: Research Assistant (Wuhan, China)
+* Nov. 2024 – Now: Research Assistant (Wuhan, China)
   _Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design_
   * Formed the dataset and labelled the data
-  * Participated in the design and refinement of the knowledge-based multi-agent framework and its workflow
+  * Participated in the design and improvement of the knowledge-based multi-agent framework and its workflow
+  * Added memory mechanism to the knowledge-based multi-agent framework
 
 * June. 2023 – Sept. 2023: Client Development Intern (Beijing, China)
   _<b>Intern at</b>: Beijing Dajia Internet Information Technology (Kuaishou) Co., Ltd., China_
@@ -60,7 +61,10 @@ Third Prize, Python Programming (University Group A), 13th Lanqiao Cup National 
 <br>Outstanding Student, School of Computer Science, Academic Years. _Oct. 2020 & Oct. 2022_
 <br>Third-Class Scholarship, School of Computer Science, Academic Years. _Oct. 2020 & Oct. 2022_
 <br>Second Prize, Preliminary Round of the "FLTRP & ETIC Cup" National English Reading Competition. _Dec.2022_
-<br>Outstanding Graduation Project, Class of 2024, School of Computer Science, Wuhan University. _June 2024_   
+<br>Outstanding Graduation Project, Class of 2024, School of Computer Science, Wuhan University. _June 2024_ 
+<br>First-Class Graduate Academic Excellence Scholarship, School of Computer Science, Wuhan University _Oct. 2025_
+<br>Excellent Graduate Student, School of Computer Science, Wuhan University _Oct. 2025_
+<br>Special Scholarship: Distinguished Mentor Scholarship, School of Computer Science, Wuhan University _Oct. 2025_  
 
 
   
