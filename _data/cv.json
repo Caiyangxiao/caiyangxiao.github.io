@@ -34,7 +34,7 @@
       "studyType": "",
       "startDate": "Sept. 2024",
       "endDate": "June 2026",
-      "gpa": "3.57/4.0",
+      "gpa": "3.53/4.0",
       "courses": ["Mathematical Modeling and Optimization", 
                   "Open-Source Software Design and Development", 
                   "New Technology of Demand Engineering", 
@@ -91,7 +91,7 @@
       "website": "https://www.sciencedirect.com/science/article/abs/pii/S0164121225001207"
     },
     {
-      "name": "",
+      "name": "Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale",
       "author": "<b>Yangxiao Cai</b>, Ruiyin Li, Peng Liang, Mojtaba Shahin, Zengyang Li",
       "publisher":"arXiv",
       "releaseDate":"2025",
