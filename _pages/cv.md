@@ -19,9 +19,9 @@ Education
 Publications
 ======
 * <b>Yangxiao Cai</b>, Peng Liang, Yifei Wang, Zengyang Li, Mojtaba Shahin. Demystifying Issues, Causes and Solutions in LLM Open-Source Projects. _Journal of Systems and Software_, 227 (2025), 112452.
-* <b>Yangxiao Cai</b>, Ruiyin Li, Peng Liang, Mojtaba Shahin, Zengyang Li. Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale. _arXiv_ preprint arXiv:2511.08475 (2025).
-* Jiaxin Yu, Peng Liang, Yujia Fu, Amjed Tahir, Mojtaba Shahin, Chong Wang, <b>Yangxiao Cai</b>. An Insight into Security Code Review with LLMs: Capabilities, Obstacles and Influential Factors. _arXiv_ preprint arXiv:2401.16310 (2024).
-* Ruiyin Li, Peng Liang, Yifei Wang, <b>Yangxiao Cai</b>, Weisong Sun, Zengyang Li. Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub. _ACM Transactions on Software Engineering and Methodology_ (under review), 2025.
+* <b>Yangxiao Cai</b>, Ruiyin Li, Peng Liang, Mojtaba Shahin, Zengyang Li. Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale. _ACM Transactions on Software Engineering and Methodology_ (under review), https://arxiv.org/abs/2511.08475
+* Jiaxin Yu, Peng Liang, Yujia Fu, Amjed Tahir, Mojtaba Shahin, Chong Wang, <b>Yangxiao Cai</b>. An Insight into Security Code Review with LLMs: Capabilities, Obstacles and Influential Factors. _Journal of Systems and Software_ (under first revision), https://arxiv.org/abs/2401.16310
+* Ruiyin Li, Peng Liang, Yifei Wang, <b>Yangxiao Cai</b>, Weisong Sun, Zengyang Li. Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub. _ACM Transactions on Software Engineering and Methodology_ (under second review), https://arxiv.org/abs/2505.03901
 
 Project experience
 ======
