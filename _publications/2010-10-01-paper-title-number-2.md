@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2024-01-29
 venue: 'Journal of Systems and Software (under first revision)'
-paperurl: 'http://caiyangxiao.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/abs/2401.16310'
 citation: 'Jiaxin Yu, Peng Liang, Yujia Fu, Amjed Tahir, Mojtaba Shahin, Chong Wang, and <b>Yangxiao Cai</b>. 2024. An Insight into Security Code Review with LLMs: Capabilities, Obstacles and Influential Factors. <i>arXiv preprint arXiv:2401.16310</i> (2024).'
 ---
